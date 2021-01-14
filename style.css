@@ -1,22 +1,29 @@
 .text-platzi {
-    color : lightseagreen !important;
+    color : #198754 !important;
 }
 
 .btn-sun {
-    background-color:lightseagreen ;
+    background-color:#198754 ;
     color: white !important;
 }
 .btn-sun:hover {
     background-color: #127671 ;
 }
 #footer {
-    background: lightseagreen ;
+    background: #212529 ;
 }
 
 #main .carousel-inner img {
     max-height: 50vh;
     object-fit: cover;
     filter: grayscale(10%);
+}
+#special{
+    background-color: #212529;
+    color: white;
+}
+#special img {
+    max-width: 100%;
 }
 
 #carousel {
